@@ -1,0 +1,116 @@
+ORG-CENTER-START
+
+
+ORG-CENTER-END
+
+Experience 
+-----------
+
+Senior Software Engineer, Lockheed Martin Advanced Technologies, 2004--Present 
+===============================================================================
+
+Internal R&D Prototyping For Genomic Data Management and Processing 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Technical lead for bioinformatics IR&D working closely with
+    UCSF and NIH scientists to develop cloud-based data
+    compression and management platform.  Development ongoing.
+
+Distributed Database Prototyping 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Developed a distributed track information database prototype for
+    the Office of Naval Research. Prototype based on Apache Cassandra
+    to create global shared information space for U.S. Navy use.
+    Demonstrated on unreliable network and visualized with NASA
+    Worldwind.
+      
+
+Augmented Reality Prototyping for DARPA ULTRA-Vis 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Developer on a team that prototyped a wearable, networked
+    augmented reality system to enhance situational awareness for
+    dismounted warfighters.  Developed sensor alignment algorithms and
+    integrated hardware and software components from five partners;
+    successfully demonstrated in the field to DARPA personnel in
+    January 2010.
+      
+
+Unattended Wireless Sensor Network Data Routing 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Co-architected and developed distributed demand-based data routing
+    algorithms based on learning classifier systems.  Successfully
+    demonstrated 1000 nodes in unreliable network environment using
+    simulation; demonstrated real-world application by porting and
+    deploying to ten SunSPOTs. Co-authored paper and presented work at
+    WorldComp ICWN 2008.
+      
+
+Genetic Algorithm Optimization and Supply Chain Simulation 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Lead developer on R&D project to optimize global reverse supply
+    chain logistics involving placement of facilities to collect GPS
+    tracking units (tags) after use by customers.  Developed global tag
+    routing simulation in Scala to calculate tag collection cost.
+    Integrated Javaspaces-based distributed computing platform with
+    genetic algorithms framework to perform search for optimal
+    collection center placement on eight-node cluster. Cited by program
+    manager as most successful of his R&D efforts in 2008.
+      
+
+Cluster-based Network Simulation 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Co-developed cluster-based simulation environment to demonstrate
+    scalability of distributed architecture for sensor data fusion.
+    Integrated simulation code with replicated worker Javaspaces-based
+    distribution framework to simulate 1300-node scenario using
+    eight-node cluster. Presented network simulation techniques at 2005
+    Jini Community Conference, Chicago, IL.
+
+Division Officer, USS Boxer (LHD-4), United States Navy, 2001-2004 
+===================================================================
+    Led a division of 60 sailors responsible for shipwide damage
+    control.  Awarded two Navy Achievement Medals and cited as
+    Commanding Officer's most trusted Officer of the Deck during three
+    deployments to Arabian Gulf; responsible for conducting amphibious
+    and helicopter operations in hostile waters off the coast of Iraq
+    and Kuwait.
+
+Awards, Articles and Presentations 
+-----------------------------------
+  - Presenter at 2011 Lockheed Martin Agile Software Engineering
+    Workshop in Bethesda, MD
+  - Nominated for the Lockheed Martin Executive Technical Roundtable
+    Mentoring Program (2011)
+  - Lockheed Martin Individual Special Recognition Award for work as
+    project lead to optimize shipping logistics using genetic
+    algorithms (2009)
+  - Lockheed Martin Spot Award for research on wireless data routing
+    algorithms (2008)
+  - Presented paper at at WorldComp ICWN 2008: /A Self-Organizing System for Regulating Data Flow through Highly Bandwidth-Constrained Wireless Sensor Networks/
+  - Speaker at JavaOne 2007 on the /Open-Source Java Projects: Meet
+    the Sausage Makers Panel/
+  - Lockheed Martin Spot Award for integrating data fusion engine and
+    distributed fusion management framework (2006)
+  - Speaker at 2005 Jini Community Meeting: /Using JavaSpaces to
+    Simulate Large-Scale Jini Service Networks/
+  - Lockheed Martin Team Special Recognition Award for prototyping of
+    distributed network resource allocation framework (2005)
+
+Education 
+----------
+  - /Master of Computer Science/ (GPA: 3.97), 2010 (North Carolina
+    State University Raleigh, NC)
+  - /Bachelor of Science, Operations Research/, 2000 (Cornell
+    University Ithaca, NY)
+
+Technical Proficiencies 
+------------------------
+  10000+ Hours:: Object-oriented programming, Distributed computing, Java,
+    LPI-certified GNU/Linux systems administrator, GNU Emacs, Agile
+    development (scrum)
+     
+  5000+ Hours:: Python, Public presentation, Concurrent systems,
+    Simulation, Mac OS X, Jini 2/Apache River, Eclipse
+     
+  1000+ Hours:: Functional programming, Scala, Clojure, Javascript,
+    Genetic algorithms, Distributed data structures, J2EE
+    (JBoss/Glassfish), Rocks Clusters, LaTeX
